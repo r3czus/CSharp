@@ -1,0 +1,16 @@
+﻿<Window x:Class="stylowoXD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stylowoXD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+	<Grid>
+		<Canvas HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Rectangle Width="100" Height="175" Fill="Red" Canvas.Left="-50" Canvas.Top="-87.5" Stroke="Black" StrokeThickness="4" RadiusX="25" RadiusY="25"/>
+			<Rectangle Width="72" Height="40" Fill="Aqua" Canvas.Left="-36" Canvas.Top="-75" RadiusX="15" RadiusY="15"/>
+			<Rectangle Width="30" Height="50" Fill="White"  Canvas.Left="-15" Canvas.Top="40" RadiusX="5" RadiusY="5"/>
+		</Canvas>
+	</Grid>
+</Window>
