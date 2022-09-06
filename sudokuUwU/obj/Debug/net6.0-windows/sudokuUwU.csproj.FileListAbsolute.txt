@@ -1,0 +1,84 @@
+C:\Users\3a1\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.exe
+C:\Users\3a1\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.deps.json
+C:\Users\3a1\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.runtimeconfig.json
+C:\Users\3a1\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\3a1\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.AssemblyReference.cache
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.cache
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.lref
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.g.resources
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfoInputs.cache
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfo.cs
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.CoreCompileInputs.cache
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\refint\sudokuUwU.dll
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.genruntimeconfig.cache
+C:\Users\3a1\Desktop\sudokuUwU\obj\Debug\net6.0-windows\ref\sudokuUwU.dll
+C:\Users\uczen\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.exe
+C:\Users\uczen\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.deps.json
+C:\Users\uczen\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.runtimeconfig.json
+C:\Users\uczen\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\uczen\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.cache
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.lref
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.g.resources
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfo.cs
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\refint\sudokuUwU.dll
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.genruntimeconfig.cache
+C:\Users\uczen\Desktop\sudokuUwU\obj\Debug\net6.0-windows\ref\sudokuUwU.dll
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.exe
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.deps.json
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.runtimeconfig.json
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\ref\sudokuUwU.dll
+C:\Users\Pafcio\Desktop\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.AssemblyReference.cache
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.cache
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.lref
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.g.resources
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfoInputs.cache
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfo.cs
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.CoreCompileInputs.cache
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.dll
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\ref\sudokuUwU.dll
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.pdb
+C:\Users\Pafcio\Desktop\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.genruntimeconfig.cache
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.exe
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.deps.json
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.runtimeconfig.json
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.dll
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\ref\sudokuUwU.dll
+F:\W trakcie\sudokuUwU\bin\Debug\net6.0-windows\sudokuUwU.pdb
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.AssemblyReference.cache
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\App.g.cs
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.cache
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU_MarkupCompile.lref
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\MainWindow.baml
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.g.resources
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.GeneratedMSBuildEditorConfig.editorconfig
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfoInputs.cache
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.AssemblyInfo.cs
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.csproj.CoreCompileInputs.cache
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.dll
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\ref\sudokuUwU.dll
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.pdb
+F:\W trakcie\sudokuUwU\obj\Debug\net6.0-windows\sudokuUwU.genruntimeconfig.cache

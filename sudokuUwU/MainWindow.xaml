@@ -1,0 +1,52 @@
+﻿<Window x:Class="sudokuUwU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sudokuUwU"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="475" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TabControl x:Name="taby">
+            <TabItem Header="Sudoku 4x4x4" x:Name="mała">
+                <ItemsControl HorizontalAlignment="Center" Width="360px" Height="360px" BorderBrush="Black" BorderThickness="3px" ItemsSource="{Binding czwórka}" x:Name="graCztery">
+                    <ItemsControl.ItemsPanel >
+                        <ItemsPanelTemplate>
+                            <UniformGrid/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBox Width="90px" Height="90px" FontSize="54" Text="{Binding Liczba}" Background="{Binding Kolorek}" IsReadOnly="{Binding IsReadOnly}" Foreground="{Binding KolorTekstu}" TextAlignment="Center" PreviewTextInput="PreviewTextInputFour" MaxLength="1"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </TabItem>
+            
+            <TabItem Header="Sudoku 9x9x9">
+                <ItemsControl HorizontalAlignment="Center" Width="360px" Height="360px" BorderBrush="Black" BorderThickness="3px" ItemsSource="{Binding dziewiątka}" x:Name="graDziewięć">
+                    <ItemsControl.ItemsPanel >
+                        <ItemsPanelTemplate>
+                            <UniformGrid/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBox Width="40px" Height="40px" FontSize="26" Text="{Binding Liczba}" Background="{Binding Kolorek}" IsReadOnly="{Binding IsReadOnly}" Foreground="{Binding KolorTekstu}" TextAlignment="Center" PreviewTextInput="PreviewTextInputNine" MaxLength="1"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </TabItem>
+        </TabControl>
+        <Button Width="200px" FontSize="28" Grid.Row="1" Click="Button_Click">Gotowe</Button>
+    </Grid>
+</Window>
