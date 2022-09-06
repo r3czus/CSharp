@@ -1,0 +1,63 @@
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.exe
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.deps.json
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.runtimeconfig.json
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.dll
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+C:\Users\3a1\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.pdb
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.AssemblyReference.cache
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.cache
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.lref
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.g.resources
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfoInputs.cache
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfo.cs
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.CoreCompileInputs.cache
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.dll
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.pdb
+C:\Users\3a1\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.genruntimeconfig.cache
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.exe
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.deps.json
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.runtimeconfig.json
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.dll
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+C:\Users\Pafcio\Desktop\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.pdb
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.AssemblyReference.cache
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.cache
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.lref
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.g.resources
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfoInputs.cache
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfo.cs
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.CoreCompileInputs.cache
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.dll
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.pdb
+C:\Users\Pafcio\Desktop\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.genruntimeconfig.cache
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.exe
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.dll
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\bin\Debug\net6.0-windows\listViewW1Oknie.pdb
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.dll
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\ref\listViewW1Oknie.dll
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.pdb
+E:\Rzeczy szkolne\Programowanie\C#\listViewW1Oknie\obj\Debug\net6.0-windows\listViewW1Oknie.genruntimeconfig.cache

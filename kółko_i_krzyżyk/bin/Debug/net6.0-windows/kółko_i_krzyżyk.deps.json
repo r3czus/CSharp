@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kółko_i_krzyżyk/1.0.0": {
+        "runtime": {
+          "kółko_i_krzyżyk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kółko_i_krzyżyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

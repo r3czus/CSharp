@@ -1,0 +1,43 @@
+﻿<Window x:Class="listViewW1Oknie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:listViewW1Oknie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+			<ColumnDefinition/>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+
+		<ListView x:Name="listw" Grid.ColumnSpan="2" SelectionChanged="listw_SelectionChanged" SelectionMode="Single">
+			<ListView.View>
+				<GridView>
+					<GridView.Columns>
+						<GridViewColumn Header="Imię" DisplayMemberBinding="{Binding Imie}" Width="60"/>
+						<GridViewColumn Header="Nazwisko" DisplayMemberBinding="{Binding Nazwisko}" Width="80"/>
+						<GridViewColumn Header="Klasa" DisplayMemberBinding="{Binding Klasa}" Width="50"/>
+					</GridView.Columns>
+				</GridView>
+			</ListView.View>
+		</ListView>
+		<StackPanel Grid.Column="2" VerticalAlignment="Center" x:Name="formularz">
+            <StackPanel.BindingGroup>
+                <BindingGroup Name="grupa"/>
+            </StackPanel.BindingGroup>
+			<TextBox Width="200px" Height="30" Margin="10" x:Name="imie" Text="{Binding Imie}"/>
+			<TextBox Width="200px" Height="30" Margin="10" x:Name="nazwisko" Text="{Binding Nazwisko}"/>
+			<TextBox Width="200px" Height="30" Margin="10" x:Name="klasa" Text="{Binding Klasa}"/>
+		</StackPanel>
+		<Button Width="150" Height="50" Grid.Row="1" Click="Button_Click_Dodaj">Dodaj</Button>
+		<Button Width="150" Height="50" Grid.Row="1" Grid.Column="1" Click="Button_Click_Zmien">Zmień</Button>
+		<Button Width="150" Height="50" Grid.Row="1" Grid.Column="2" Click="Button_Click_Usun">Usuń</Button>
+	</Grid>
+</Window>
