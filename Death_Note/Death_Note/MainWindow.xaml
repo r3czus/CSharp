@@ -1,0 +1,47 @@
+﻿<Window x:Class="Death_Note.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Death_Note"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu">
+            <MenuItem Header="Plik">
+                <MenuItem Header="Nowy" Click="New_Click"/>
+                <MenuItem Header="Otwórz" Click="Open_Click"/>
+                <MenuItem Header="Zapisz" Click="Save_Click"/>
+                <MenuItem Header="Zapisz jako" Click="Save_As_CLick"/>
+                <MenuItem Header="Zamknij" Click="Close_Click"/>
+            </MenuItem>
+            <MenuItem Header="Edycja">
+                <MenuItem Header="Cofnij" Command="ApplicationCommands.Undo"/>
+                <MenuItem Header="Ponów" Command="ApplicationCommands.Redo"/>
+                <Separator/>
+                <MenuItem Header="Wytnij" Command="ApplicationCommands.Cut"/>
+                <MenuItem Header="Kopiuj" Command="ApplicationCommands.Copy"/>
+                <MenuItem Header="Wklej" Command="ApplicationCommands.Paste"/>
+            </MenuItem>       
+            <MenuItem Header="Format">
+                <MenuItem Header="Rozmiar">
+                    <MenuItem Header="Zwiększ" Click="SizeLarger_Click"/>
+                    <MenuItem Header="Zmniejsz" Click="SizeSmaller_Click"/>
+                </MenuItem>
+                <MenuItem Header="Motyw">
+                    <MenuItem Header="Ciemny" IsCheckable="True" Click="CiemnyMotyw_Click"/>
+                    <MenuItem Header="Jasny" IsCheckable="True" Click="JasnyMotyw_Click"/>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <ToolBar Grid.Row="1" x:Name="toolbar">
+            
+        </ToolBar>
+        <TextBox Grid.Row="2" x:Name="tekst" TextChanged="Changed"/>
+    </Grid>
+</Window>
