@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15b4ba70-dc72-40e5-9516-3ca7e8e3744c": {
+      "ProjectGuid": "15b4ba70-dc72-40e5-9516-3ca7e8e3744c",
+      "DisplayName": "chromium_dla_ubogich",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

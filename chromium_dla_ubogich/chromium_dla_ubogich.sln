@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chromium_dla_ubogich", "chromium_dla_ubogich.csproj", "{15B4BA70-DC72-40E5-9516-3CA7E8E3744C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B4BA70-DC72-40E5-9516-3CA7E8E3744C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B4BA70-DC72-40E5-9516-3CA7E8E3744C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B4BA70-DC72-40E5-9516-3CA7E8E3744C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B4BA70-DC72-40E5-9516-3CA7E8E3744C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0D3E4D-5707-4BCE-B621-F78586441F44}
+	EndGlobalSection
+EndGlobal
