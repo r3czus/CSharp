@@ -1,0 +1,45 @@
+﻿<Window x:Class="przywitanie.uklady"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:przywitanie"
+        mc:Ignorable="d"
+        Title="uklady" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal"> <!--To jeden element pod drugim--> <!-- FlowDirection="RightToLeft"-->
+        <Button Background="Red">1</Button>
+        <Button Background="Red">2</Button>
+        <DockPanel>
+            <Button DockPanel.Dock="Left" Background="Aqua">3</Button>
+            <Button DockPanel.Dock="Bottom" Background="Aqua">4</Button>
+            <Button DockPanel.Dock="Left" Background="Aqua">5</Button>
+            <Button DockPanel.Dock="Top" Background="Aqua">6</Button>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <!--<ColumnDefinition Width="auto"/>-->
+                    <ColumnDefinition Width="100"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="3*"/>
+                </Grid.RowDefinitions>
+                <Button Background="lime">7</Button>
+                <UniformGrid Grid.Row="1" Grid.Column="0">
+                    <Button Background="Magenta">8</Button>
+                    <Button Background="Magenta">9</Button>
+                    <Button Background="Magenta">10</Button>
+                    <Button Background="Magenta">11</Button>
+                    <Button Background="Magenta">12</Button>
+                </UniformGrid>
+                <WrapPanel Grid.Column="1" Orientation="Vertical">
+                    <Button Background="Orange">13</Button>
+                    <Button Background="Orange">14</Button>
+                    <Button Background="Orange">15</Button>
+                    <Button Background="Orange">16</Button>
+                </WrapPanel>
+            </Grid>
+        </DockPanel>
+    </StackPanel>
+</Window>

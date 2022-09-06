@@ -1,0 +1,50 @@
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\przywitanie.exe
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\przywitanie.deps.json
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\przywitanie.runtimeconfig.json
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\przywitanie.dll
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\ref\przywitanie.dll
+C:\Users\Uczen\Desktop\przywitanie\bin\Debug\net6.0-windows\przywitanie.pdb
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie_MarkupCompile.cache
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie_MarkupCompile.lref
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.g.resources
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.AssemblyInfoInputs.cache
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.AssemblyInfo.cs
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.dll
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\ref\przywitanie.dll
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.pdb
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\przywitanie.genruntimeconfig.cache
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\uklady.g.cs
+C:\Users\Uczen\Desktop\przywitanie\obj\Debug\net6.0-windows\uklady.baml
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\przywitanie.exe
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\przywitanie.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\przywitanie.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\przywitanie.dll
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\ref\przywitanie.dll
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\bin\Debug\net6.0-windows\przywitanie.pdb
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\uklady.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\Window1.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\uklady.baml
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\Window1.baml
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.dll
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\ref\przywitanie.dll
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.pdb
+E:\Rzeczy szkolne\Programowanie\C#\przywitanie\obj\Debug\net6.0-windows\przywitanie.genruntimeconfig.cache

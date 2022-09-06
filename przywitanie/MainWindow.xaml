@@ -1,0 +1,36 @@
+﻿<Window x:Class="przywitanie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:przywitanie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Grid.Row="2" Grid.Column="1">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <!--<RowDefinition Height="auto"/>
+            <RowDefinition Height="2*"/>-->
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" 
+                Background="Beige" 
+                Height="100px" 
+                Width="300px"
+                Foreground="Brown"
+                FontSize="30px"
+                Click="Button_Click">
+            Start
+        </Button>
+        <Button Grid.Row="1" 
+                Content="Czas"
+                Margin="20 40 50 30"        
+                Padding="20" 
+                FontSize="30px"
+                Name="Czas_button" 
+                MouseEnter="Czas_button_MouseEnter"
+                MouseLeave="Czas_button_MouseLeave"
+        />
+    </Grid>
+</Window>
+<!-- Aby zmienić okno, które jest wyświetlane jako pierwsze, należy w App.xaml zmienić StartupUri -->
