@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20a514e6-4b30-41d0-94cb-71935dde2ef0": {
+      "ProjectGuid": "20a514e6-4b30-41d0-94cb-71935dde2ef0",
+      "DisplayName": "Pierwszy WPF dotNet6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

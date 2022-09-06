@@ -1,0 +1,99 @@
+﻿<Window x:Class="Pierwszy_WPF_dotNet6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pierwszy_WPF_dotNet6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Button Content="dock1"></Button>
+        <Button Content="dock2" DockPanel.Dock="Top"></Button>
+        <Button Content="dock3" DockPanel.Dock="Right"></Button>
+        <Button Content="dock4" DockPanel.Dock="Bottom"></Button>
+        <Button Content="dock5" DockPanel.Dock="Right"></Button>
+        <Grid>
+            <!--Przybornik pod przyciskiem F4 !!!NIEAKTUALNE!!!-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="2*"/>
+                <!--Double match-parent-->
+                <ColumnDefinition Width="auto"/>
+                <!--Wrap-content-->
+                <ColumnDefinition Width="*"/>
+                <!--Match-parent-->
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <!--<RowDefinition Height="auto"/>-->
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button 
+			Content="Przycisk pierwszy" 
+			FontSize="14"
+			Grid.Column="2"
+			Grid.ColumnSpan="2"
+		/>
+            <!--"Left" Margin="605,255,0,0" VerticalAlignment="Top" -->
+            <Button Width="200" Height="200" Grid.Row="1">
+                Przycisk drugi
+            </Button>
+            <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal">
+                <Button Content="1"></Button>
+                <Button Content="2"></Button>
+                <Button Content="3"></Button>
+                <Button Content="4"></Button>
+                <Button Content="5"></Button>
+                <Button Content="6"></Button>
+                <Button Content="7"></Button>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Button Content="1"></Button>
+                <Button Content="2"></Button>
+                <Button Content="3"></Button>
+                <Button Content="4"></Button>
+                <Button Content="5"></Button>
+                <Button Content="6"></Button>
+                <Button Content="7"></Button>
+            </StackPanel>
+            <WrapPanel Grid.Row="1" Grid.Column="2">
+                <Button Content="1"></Button>
+                <Button Content="2"></Button>
+                <Button Content="3"></Button>
+                <Button Content="4"></Button>
+                <Button Content="5"></Button>
+                <Button Content="6"></Button>
+                <Button Content="7"></Button>
+            </WrapPanel>
+            <WrapPanel Grid.Row="1" Grid.Column="3" Orientation="Vertical">
+                <!--Wrap się zawija jak zabraknie miejsca w wierszu lub kolumnie-->
+                <Button Content="1"></Button>
+                <Button Content="2"></Button>
+                <Button Content="3"></Button>
+                <Button Content="4"></Button>
+                <Button Content="5"></Button>
+                <Button Content="6"></Button>
+                <Button Content="7"></Button>
+            </WrapPanel>
+            <UniformGrid Grid.Row="2" Rows="2" Columns="6" FlowDirection="RightToLeft">
+                <!--TUtaj ustalić możemy sobie ile mamy kolumn i wierszy na rzeczy, tu mamy 2 wiersze i 6 kolumn-->
+                <Button>1</Button>
+                <Button>2</Button>
+                <Button>3</Button>
+                <Button>4</Button>
+                <Button>5</Button>
+                <Button>6</Button>
+                <Button>7</Button>
+            </UniformGrid>
+            <Canvas Grid.Column="2" Grid.Row="2" Background="Red">
+                <Rectangle Fill="Aqua" Width="50" Height="25" Canvas.Left="11" Canvas.Top="20"></Rectangle>
+                <Rectangle Fill="White" Width="20" Height="40" Canvas.Left="26" Canvas.Bottom="0"></Rectangle>
+            </Canvas>
+            <Canvas Grid.Column="1" Grid.Row="2" Background="Pink">
+                <Rectangle Fill="Navy" Width="100" Height="20" Canvas.Left="75" Canvas.Top="75"></Rectangle>
+            </Canvas>
+        </Grid>
+        <!--<Button Content="dock4"></Button> -W dockpanel ostatni element dostaje całe wolne miejsce po ściśnięciu poprzednich -->
+    </DockPanel>
+</Window>

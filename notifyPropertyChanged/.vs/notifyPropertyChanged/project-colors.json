@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15f476eb-a833-41cb-a011-c4bc0f6e739c": {
+      "ProjectGuid": "15f476eb-a833-41cb-a011-c4bc0f6e739c",
+      "DisplayName": "notifyPropertyChanged",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
