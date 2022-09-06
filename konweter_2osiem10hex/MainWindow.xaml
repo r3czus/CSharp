@@ -1,0 +1,46 @@
+﻿<Window x:Class="konweter_2osiem10hex.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:konweter_2osiem10hex"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            
+            <TextBlock FontSize="24px" HorizontalAlignment="Center">Podaj liczbę do konwersji</TextBlock>
+            <TextBox Width="250px" Height="30px" VerticalContentAlignment="Center" Margin="10px" x:Name="liczbaBox" PreviewTextInput="Regeks"/>
+            <Separator Height="10px"/>
+            
+            <TextBlock FontSize="20px" HorizontalAlignment="Center">W jakim jest ona systemie?</TextBlock>
+            <ComboBox Width="100px" Margin="10px" x:Name="jakiJest" SelectionChanged="jakiJest_SelectionChanged">
+                <ComboBoxItem>2</ComboBoxItem>
+                <ComboBoxItem>8</ComboBoxItem>
+                <ComboBoxItem IsSelected="True">10</ComboBoxItem>
+                <ComboBoxItem>16</ComboBoxItem>
+            </ComboBox>
+            <Separator Height="10px"/>
+            
+            <TextBlock FontSize="20px" HorizontalAlignment="Center">Na jaki system chcesz konwertować?</TextBlock>
+            <ComboBox Width="100px" Margin="10px" x:Name="jakiMaByć">
+                <ComboBoxItem>2</ComboBoxItem>
+                <ComboBoxItem>8</ComboBoxItem>
+                <ComboBoxItem IsSelected="True">10</ComboBoxItem>
+                <ComboBoxItem>16</ComboBoxItem>
+            </ComboBox>
+            <Separator Height="10px"/>
+
+            <Button Width="100px" Height="35px" FontSize="20px" Margin="10px" Click="Button_Click">Przelicz!</Button>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center" Grid.Column="1">
+            <TextBlock FontSize="28px" HorizontalAlignment="Center">Przekonwertowana liczba</TextBlock>
+            <TextBlock FontSize="24px" HorizontalAlignment="Center" x:Name="naSystem">na system: </TextBlock>
+            <TextBlock x:Name="wynikowy" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow"/>
+        </StackPanel>
+    </Grid>
+</Window>

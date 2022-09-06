@@ -1,0 +1,153 @@
+﻿<Window x:Class="kosciUno.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kosciUno"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <!--Podpięliśmy grafiki w pliku, który potwiera się po klik-klik na nazwę projektu w Eksploratorze Rozwiązań-->
+        <Button Content="Roll" Click="rollbtn_Click" Grid.Row="1" x:Name="rollbtn"/>
+        <Button Content="Start" x:Name="startbtn" Click="clearbtn_Click" Grid.Column="2"/>
+        <Button Content="Zatwierdź" x:Name="zatwierdzbtn" Grid.Column="1" Grid.Row="1" Click="zatwierdzbtn_Click"/>
+        <!--<Button Content="Clear" Click="clearbtn_Click" DockPanel.Dock="Bottom"/>-->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="2">
+            <TextBlock Text="Suma punktów: "/>
+            <TextBlock Text="0" x:Name="wynik"/>
+        </StackPanel>
+        <DataGrid Grid.Column="1" ItemsSource="{Binding scores}" x:Name="danesiatka" AutoGeneratingColumn="ukryj">
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="IsEnabled" Value="{Binding IsEnabled}"/>
+                </Style>
+            </DataGrid.RowStyle>
+        </DataGrid>
+        <ItemsControl ItemsSource="{Binding results}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Button Click="dicebtn_Click" Background="White" BorderBrush="White">
+                        <Image>
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Source" Value="Images/dice_0.png"/>
+                                    <Style.Triggers>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="1"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_1.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="1"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_1.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="2"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_2.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="2"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_2.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="3"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_3.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="3"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_3.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="4"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_4.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="4"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_4.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="5"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_5.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="5"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_5.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="6"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_6.png"/>
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="6"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/dice_6.png"/>
+                                            <Setter Property="Opacity" Value="0.5"/>
+                                        </MultiDataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>    
+                        </Image>
+                    </Button>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Window>

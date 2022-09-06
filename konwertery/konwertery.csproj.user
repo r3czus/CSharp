@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Zadanie2Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Zadanie3Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Zadanie4Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Zadanie5Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Zadanie2Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Zadanie3Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Zadanie4Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Zadanie5Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

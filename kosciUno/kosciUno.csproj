@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="images/dice_1.png" />
+    <Resource Include="images/dice_2.png" />
+    <Resource Include="images/dice_3.png" />
+    <Resource Include="images/dice_4.png" />
+    <Resource Include="images/dice_5.png" />
+    <Resource Include="images/dice_6.png" />
+    <Resource Include="images/dice_0.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,50 @@
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.exe
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.deps.json
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.runtimeconfig.json
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.dll
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\ref\kontrolki_numer_2.dll
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.pdb
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.AssemblyReference.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_MarkupCompile.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_MarkupCompile.lref
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.g.resources
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.AssemblyInfoInputs.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.AssemblyInfo.cs
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.CoreCompileInputs.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.dll
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\ref\kontrolki_numer_2.dll
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.pdb
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.genruntimeconfig.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.Properties.Resources.resources
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.GenerateResource.cache
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\Resources\floppy.png
+C:\Users\admin2\Desktop\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_Content.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.exe
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.dll
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\ref\kontrolki_numer_2.dll
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\kontrolki_numer_2.pdb
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.Properties.Resources.resources
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.GenerateResource.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.dll
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\ref\kontrolki_numer_2.dll
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.pdb
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2.genruntimeconfig.cache
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\bin\Debug\net6.0-windows\Resources\floppy.png
+E:\Rzeczy szkolne\Programowanie\C#\kontrolki_numer_2\kontrolki_numer_2\obj\Debug\net6.0-windows\kontrolki_numer_2_Content.g.cs
