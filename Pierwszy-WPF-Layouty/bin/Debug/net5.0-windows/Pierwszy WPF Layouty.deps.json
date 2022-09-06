@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pierwszy WPF Layouty/1.0.0": {
+        "runtime": {
+          "Pierwszy WPF Layouty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pierwszy WPF Layouty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

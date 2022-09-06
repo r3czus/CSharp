@@ -1,0 +1,22 @@
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.exe
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.runtimeconfig.dev.json
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.dll
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\ref\Pierwszy WPF Layouty.dll
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\bin\Debug\net5.0-windows\Pierwszy WPF Layouty.pdb
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.dll
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\ref\Pierwszy WPF Layouty.dll
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.pdb
+E:\Rzeczy szkolne\Programowanie\C#\Pierwszy-WPF-Layouty\obj\Debug\net5.0-windows\Pierwszy WPF Layouty.genruntimeconfig.cache
