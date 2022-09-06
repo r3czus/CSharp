@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kalkulator_jak_windows/1.0.0": {
+        "runtime": {
+          "kalkulator_jak_windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kalkulator_jak_windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

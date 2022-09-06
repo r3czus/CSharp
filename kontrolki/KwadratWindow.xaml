@@ -1,0 +1,49 @@
+﻿<Window x:Class="kontrolki.KwadratWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kontrolki"
+        mc:Ignorable="d"
+        Padding="50"
+        Title="KwadratWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40">Bok</Label>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Grid.Row="1">Pole</Label>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Grid.Row="2">Obwód</Label>
+
+        <TextBox x:Name="dejBok" Grid.Column="1" Background="Wheat" TextAlignment="Center" FontSize="30" TextChanged="dejBok_TextChanged"></TextBox>
+        <TextBlock x:Name="pole" TextAlignment="Center" FontSize="40" Grid.Row="1" Grid.Column="1" Background="LightGray"></TextBlock>
+        <TextBlock x:Name="obwod" TextAlignment="Center" FontSize="40" Grid.Row="2" Grid.Column="1" Background="LightGray"></TextBlock>
+        <Button Grid.Column="1" Grid.Row="5" Background="Navy" FontSize="40" Foreground="White" FontWeight="Bold" Click="Button_Click">Rysuj</Button>
+
+        <Label x:Name="komunikat" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" Grid.Column="2" FontWeight="Bold">Wpisz długość boku</Label>
+        <Canvas Grid.Column="2" Grid.Row="1" Grid.RowSpan="5" Background="AntiqueWhite">
+            <Rectangle x:Name="kfadrad" Width="0" Height="0" Canvas.Left="10" Canvas.Top="10" Fill="Azure" />
+        </Canvas>
+
+        <ComboBox Grid.Row="3" Grid.Column="1" Width="150" Height="30" SelectedIndex="0" x:Name="kombo">
+            <ComboBoxItem Content="Orange"/>
+            <ComboBoxItem Content="Blue"/>
+            <ComboBoxItem Content="Green"/>
+        </ComboBox>
+
+        <CheckBox Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Czy przezroczysty?" FontSize="22" x:Name="czekboks" />
+
+        <Button Grid.Row="5" Background="DarkRed" FontSize="40" Foreground="Yellow" FontWeight="Bold" Click="kasuj">Kasuj</Button>
+    </Grid>
+</Window>

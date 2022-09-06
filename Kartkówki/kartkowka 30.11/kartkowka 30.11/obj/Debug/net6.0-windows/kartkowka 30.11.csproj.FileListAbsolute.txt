@@ -1,0 +1,21 @@
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\kartkowka 30.11.exe
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\kartkowka 30.11.deps.json
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\kartkowka 30.11.runtimeconfig.json
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\kartkowka 30.11.dll
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\ref\kartkowka 30.11.dll
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\bin\Debug\net6.0-windows\kartkowka 30.11.pdb
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.csproj.AssemblyReference.cache
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11_MarkupCompile.cache
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11_MarkupCompile.lref
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.g.resources
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.AssemblyInfoInputs.cache
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.AssemblyInfo.cs
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.csproj.CoreCompileInputs.cache
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.dll
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\ref\kartkowka 30.11.dll
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.pdb
+C:\Users\3a 1\Desktop\kartkowka 30.11\kartkowka 30.11\obj\Debug\net6.0-windows\kartkowka 30.11.genruntimeconfig.cache

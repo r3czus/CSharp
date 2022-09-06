@@ -1,0 +1,44 @@
+﻿<Window x:Class="kartkowka_30._11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kartkowka_30._11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <DockPanel>
+        <Button DockPanel.Dock="Left" Width="20">1</Button>
+        <Button DockPanel.Dock="Bottom" Height="20">2</Button>
+        <Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <UniformGrid Columns="3">
+                    <Button>4</Button>
+                    <Button>5</Button>
+                    <Button>6</Button>
+                </UniformGrid>
+                <Button Grid.Column="2">3</Button>
+                <StackPanel Grid.Row="1">
+                    <Button>12</Button>
+                    <Button>13</Button>
+                </StackPanel>
+                <UniformGrid Grid.Row="1" Grid.Column="1" Columns="2">
+                    <Button>7</Button>
+                    <Button>8</Button>
+                    <Button>9</Button>
+                    <Button>10</Button>
+                    <Button>11</Button>
+                </UniformGrid>
+            </Grid>
+        </Grid>
+    </DockPanel>
+</Window>

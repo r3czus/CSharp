@@ -1,0 +1,42 @@
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\itemControls.exe
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\itemControls.deps.json
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\itemControls.runtimeconfig.json
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\itemControls.dll
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\ref\itemControls.dll
+C:\Users\klasa3a\Desktop\itemControls\bin\Debug\net6.0-windows\itemControls.pdb
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.csproj.AssemblyReference.cache
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls_MarkupCompile.cache
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls_MarkupCompile.lref
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.g.resources
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.AssemblyInfoInputs.cache
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.AssemblyInfo.cs
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.csproj.CoreCompileInputs.cache
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.dll
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\ref\itemControls.dll
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.pdb
+C:\Users\klasa3a\Desktop\itemControls\obj\Debug\net6.0-windows\itemControls.genruntimeconfig.cache
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\itemControls.exe
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\itemControls.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\itemControls.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\itemControls.dll
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\ref\itemControls.dll
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\bin\Debug\net6.0-windows\itemControls.pdb
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.dll
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\ref\itemControls.dll
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.pdb
+E:\Rzeczy szkolne\Programowanie\C#\itemControls\obj\Debug\net6.0-windows\itemControls.genruntimeconfig.cache

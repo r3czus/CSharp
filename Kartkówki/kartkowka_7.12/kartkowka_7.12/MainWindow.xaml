@@ -1,0 +1,22 @@
+﻿<Window x:Class="kartkowka_7._12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kartkowka_7._12"
+        mc:Ignorable="d"
+		x:Name="okno"
+        Title="MainWindow" Height="450" Width="800">
+	<StackPanel>
+		<Slider x:Name="slajder" Minimum="-25" Maximum="{Binding Path=Width, ElementName=okno, UpdateSourceTrigger=PropertyChanged}"/>
+		<TextBox x:Name="tekstboks" Width="100" HorizontalAlignment="Left" Text="{Binding Path=Value, ElementName=slajder, UpdateSourceTrigger=PropertyChanged}"/>
+		<ComboBox Width="100" HorizontalAlignment="Left" SelectedIndex="0" x:Name="kombo">
+			<ComboBoxItem Content="Orange"/>
+			<ComboBoxItem Content="Blue"/>
+			<ComboBoxItem Content="Green"/>
+		</ComboBox>
+		<Canvas>
+			<Rectangle x:Name="prostokont" Width="150" Height="70" Canvas.Left="{Binding Path=Text, ElementName=tekstboks}" Fill="{Binding Path=Text, ElementName=kombo}"/>
+		</Canvas>
+	</StackPanel>
+</Window>
