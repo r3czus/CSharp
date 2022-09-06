@@ -1,0 +1,50 @@
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.exe
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.deps.json
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.runtimeconfig.json
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.dll
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\ref\bindowanie dalej.dll
+C:\Users\klasa3a\Desktop\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.pdb
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.csproj.AssemblyReference.cache
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej_MarkupCompile.cache
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej_MarkupCompile.lref
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.g.resources
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.AssemblyInfoInputs.cache
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.AssemblyInfo.cs
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.csproj.CoreCompileInputs.cache
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.dll
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\ref\bindowanie dalej.dll
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.pdb
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.genruntimeconfig.cache
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\canvas.g.cs
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\canvas.baml
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\cos.g.cs
+C:\Users\klasa3a\Desktop\bindowanie dalej\obj\Debug\net6.0-windows\cos.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.exe
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\ref\bindowanie dalej.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\bin\Debug\net6.0-windows\bindowanie dalej.pdb
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\canvas.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\cos.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\canvas.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\cos.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\ref\bindowanie dalej.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.pdb
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie dalej\obj\Debug\net6.0-windows\bindowanie dalej.genruntimeconfig.cache
