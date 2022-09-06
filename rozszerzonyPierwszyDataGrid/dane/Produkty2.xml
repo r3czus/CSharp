@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListaProduktow>
+	<Produkt>
+		<Nazwa>Trumpki</Nazwa>
+		<Cena>50</Cena>
+		<Dostepnosc>true</Dostepnosc>
+		<Kategoria>Buty</Kategoria>
+	</Produkt>
+	<Produkt>
+		<Nazwa>Rękawiczki</Nazwa>
+		<Cena>12354</Cena>
+		<Dostepnosc>True</Dostepnosc>
+		<Kategoria>Dodatki</Kategoria>
+	</Produkt>
+	<Produkt>
+		<Nazwa>Szalik</Nazwa>
+		<Cena>30</Cena>
+		<Dostepnosc>True</Dostepnosc>
+		<Kategoria>Dodatki</Kategoria>
+	</Produkt>
+	<Produkt>
+		<Nazwa>Spodnie</Nazwa>
+		<Cena>120</Cena>
+		<Dostepnosc>true</Dostepnosc>
+		<Kategoria>Ubrania</Kategoria>
+	</Produkt>
+</ListaProduktow>
