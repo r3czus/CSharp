@@ -1,0 +1,79 @@
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.exe
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.deps.json
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.runtimeconfig.json
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.dll
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.pdb
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.AssemblyReference.cache
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.cache
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.lref
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.g.resources
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfoInputs.cache
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfo.cs
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.CoreCompileInputs.cache
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.dll
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.pdb
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.genruntimeconfig.cache
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.g.cs
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.baml
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.g.cs
+C:\Users\3a1\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.exe
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.deps.json
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.runtimeconfig.json
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.dll
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.pdb
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.AssemblyReference.cache
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\DodajWindow.g.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.g.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.g.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.cache
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.lref
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\DodajWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.baml
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.g.resources
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfoInputs.cache
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfo.cs
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.CoreCompileInputs.cache
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.dll
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.pdb
+C:\Users\klasa3a\Desktop\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.genruntimeconfig.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.exe
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.deps.json
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.runtimeconfig.json
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\bin\Debug\net6.0-windows\bindowanie_CHasz.pdb
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.AssemblyReference.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\DodajWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\App.g.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz_MarkupCompile.lref
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\DodajWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ListaWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\SzczegolWindow.baml
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.g.resources
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfoInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.AssemblyInfo.cs
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.csproj.CoreCompileInputs.cache
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\ref\bindowanie_CHasz.dll
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.pdb
+E:\Rzeczy szkolne\Programowanie\C#\bindowanie_CHasz\bindowanie_CHasz\obj\Debug\net6.0-windows\bindowanie_CHasz.genruntimeconfig.cache

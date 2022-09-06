@@ -1,0 +1,33 @@
+﻿<Window x:Class="bindowanie_CHasz.DodajWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bindowanie_CHasz"
+        mc:Ignorable="d"
+        Title="DodajWindow" Height="250" Width="400">
+    <Grid x:Name="dodajDane">
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition/>
+			<RowDefinition/>
+			<RowDefinition/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="auto"/>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+
+		<Label VerticalContentAlignment="Center" HorizontalContentAlignment="Center">Symbol</Label>
+		<Label Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">Nazwa</Label>
+		<Label Grid.Row="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">Liczba sztuk</Label>
+		<Label Grid.Row="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">Magazyn</Label>
+
+		<TextBox Grid.Column="1" VerticalAlignment="Center" Margin="5" Text="{Binding Symbol}"/>
+		<TextBox Grid.Column="1" VerticalAlignment="Center" Margin="5" Text="{Binding Nazwa}" Grid.Row="1"/>
+		<TextBox Grid.Column="1" VerticalAlignment="Center" Margin="5" Text="{Binding LiczbaSztuk}" Grid.Row="2"/>
+		<TextBox Grid.Column="1" VerticalAlignment="Center" Margin="5" Grid.Row="3" Text="{Binding Magazyn}"/>
+		<Button Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Potwierdź" Margin="5" FontSize="16" Click="Button_Click"/>
+	</Grid>
+</Window>
