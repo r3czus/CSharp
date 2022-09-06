@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zasoby_style_wyzwalacze/1.0.0": {
+        "runtime": {
+          "zasoby_style_wyzwalacze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zasoby_style_wyzwalacze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
